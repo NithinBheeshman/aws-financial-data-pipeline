@@ -59,7 +59,7 @@ Phase 4: Business Intelligence and Visualization
 Amazon QuickSight was connected to Athena to visualize the final dataset. A Tree Map was created to analyze the total loan amount by income type, broken down by default status.
 
 **View the Final QuickSight Graphs (PDF)**
-![AWS QuickSight visualisation](Documentation/QuickSght.pdf)
+![AWS QuickSight visualisation](Documentation/QuickSight.pdf)
 
 
 1. Final PySpark ETL Script
